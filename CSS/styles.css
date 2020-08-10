@@ -3,7 +3,8 @@ body {
     text-align: center;
 }
 .path {
-    background-color: #ff5500;
+    background-color: rgb(255,85,0);
+    
 }
 .big-heading {
     color: #ffffff;
